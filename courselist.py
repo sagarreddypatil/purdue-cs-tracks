@@ -4,7 +4,7 @@ from util import Track, Course
 def parse_courses(course_string: str) -> list[Course]:
     course_list = []
     for line in course_string.splitlines():
-        course_list.append(Course.get_or_create(*line.split("\t")))
+        course_list.append(Course.get_or_create(*line.strip().split("\t")))
     return course_list
 
 
