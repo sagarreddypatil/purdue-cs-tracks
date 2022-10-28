@@ -1,0 +1,57 @@
+Systems Core
+	CS 35200 - Compilers: Principles and Practice (Machine Intelligence Elective, Software Engineering Core, Software Engineering Elective)
+	CS 35400 - Operating Systems (Software Engineering Core, Software Engineering Elective)
+	CS 42200 - Computer Networks (Software Engineering Elective)
+
+Systems Elective
+	CS 30700 - Software Engineering I (Software Engineering Core)
+	CS 33400 - Fundamentals of Computer Graphics ()
+	CS 35300 - Principles of Concurrency and Parallelism (Software Engineering Elective)
+	CS 38100 - Introduction to the Analysis of Algorithms (Machine Intelligence Core, Software Engineering Core)
+	CS 42600 - Computer Security (Software Engineering Elective)
+	CS 44800 - Introduction to Relational Database Systems (Machine Intelligence Elective, Software Engineering Elective)
+	CS 45600 - Programming Languages (Machine Intelligence Elective, Software Engineering Elective)
+	CS 48900 - Embedded Systems (Software Engineering Elective)
+	CS 49000 DS0 - Distributed Systems ()
+
+Machine Intelligence Core
+	CS 37300 - Data Mining and Machine Learning (Software Engineering Elective)
+	CS 38100 - Introduction to the Analysis of Algorithms (Systems Elective, Software Engineering Core)
+	CS 47100 - Artifical Intelligence (Machine Intelligence Elective)
+	STAT 41600 - Probability ()
+
+Machine Intelligence Elective
+	CS 34800 - Information Systems (Software Engineering Elective)
+	CS 35200 - Compilers: Principles and Practice (Systems Core, Software Engineering Core, Software Engineering Elective)
+	CS 44800 - Introduction to Relational Database Systems (Systems Elective, Software Engineering Elective)
+	CS 45600 - Programming Languages (Systems Elective, Software Engineering Elective)
+	CS 47100 - Artifical Intelligence (Machine Intelligence Core)
+	CS 48300 - Introduction To The Theory Of Computation ()
+	CS 47300 - Web Information Search & Management (Software Engineering Elective)
+
+Software Engineering Core
+	CS 30700 - Software Engineering I (Systems Elective)
+	CS 35200 - Compilers: Principles and Practice (Systems Core, Machine Intelligence Elective, Software Engineering Elective)
+	CS 35400 - Operating Systems (Systems Core, Software Engineering Elective)
+	CS 38100 - Introduction to the Analysis of Algorithms (Systems Elective, Machine Intelligence Core)
+	CS 40800 - Software Testing ()
+	CS 40700 - Software Engineering Senior Project ()
+
+Software Engineering Elective
+	CS 34800 - Information Systems (Machine Intelligence Elective)
+	CS 35200 - Compilers: Principles and Practice (Systems Core, Machine Intelligence Elective, Software Engineering Core)
+	CS 35300 - Principles of Concurrency and Parallelism (Systems Elective)
+	CS 35400 - Operating Systems (Systems Core, Software Engineering Core)
+	CS 37300 - Data Mining and Machine Learning (Machine Intelligence Core)
+	CS 42200 - Computer Networks (Systems Core)
+	CS 42600 - Computer Security (Systems Elective)
+	CS 44800 - Introduction to Relational Database Systems (Systems Elective, Machine Intelligence Elective)
+	CS 45600 - Programming Languages (Systems Elective, Machine Intelligence Elective)
+	CS 47300 - Web Information Search & Management (Machine Intelligence Elective)
+	CS 48900 - Embedded Systems (Systems Elective)
+	CS 49000-CLC - Cloud Computing ()
+	CS 49000-DSO - Distributed Systems ()
+	CS 49000-SWS - Software Security ()
+	CS 51000 - Software Engineering ()
+	CS 59000-SRS - Software Reliability and Security ()
+
